@@ -142,7 +142,7 @@ const Explore = () => {
             src="../ethglobal-stamp.png"
           />
         </div>
-        <a href="#1">
+        <a href="#3">
           <img
             className="absolute top-[581px] left-[177px] w-9 h-9"
             alt=""
