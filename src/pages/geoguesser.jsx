@@ -11,7 +11,7 @@ const Geoguesser = () => {
 
   const checkAnswer = () => {
     const answerLower = answer.toLowerCase()
-    if (answerLower === "fantasyland") {
+    if (answerLower === "toranomon hills") {
       setTimeout(() => {
         router.push({ pathname: "/geoguesser2", query: { hunt: hunt } })
       }, 1000)

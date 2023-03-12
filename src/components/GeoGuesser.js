@@ -6,7 +6,7 @@ const GeoGuesser = ({ hunt }) => {
   const pos =
     hunt === "mickey"
       ? { lat: 48.86750220793768, lng: 2.78353936022087 }
-      : { lat: 41.88088646504796, lng: -87.67418662271211 }
+      : { lat: 35.66701310308313, lng: 139.7494600845729 }
 
   // see https://developers.google.com/maps/documentation/javascript/3.exp/reference#StreetViewPanoramaOptions
   const streetViewPanoramaOptions = {
