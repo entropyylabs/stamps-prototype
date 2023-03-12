@@ -25,7 +25,7 @@ const Cam = () => {
             <img
               className="animate-spin fixed top-[250px] left-[100px] h-[202px] w-[207px]"
               alt=""
-              src={hunt === "mickey" ? "../mickey.png" : "../jordans.png"}
+              src={hunt === "mickey" ? "../mickey.png" : "../polygon-moving.png"}
             />
           ) : (
             <div className="hidden">hello</div>
