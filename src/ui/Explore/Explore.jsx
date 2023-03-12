@@ -54,7 +54,7 @@ const Explore = () => {
         </a>
         <button className="cursor-pointer [border:none] p-0 bg-gray-100 absolute top-[414px] left-[19px] rounded-lg w-[352px] h-12">
           <div className="absolute top-[16px] text-center text-[16px] w-full tracking-[0.6px] leading-[16px] font-medium font-work-sans text-white text-left">
-            <Link href="/hunts/mickey">Start the hunt</Link>
+            <Link href="/hunts/polygon">Start the hunt</Link>
           </div>
         </button>
       </main>
@@ -103,7 +103,7 @@ const Explore = () => {
 
         <button className="cursor-pointer [border:none] p-0 bg-gray-100 absolute top-[414px] left-[19px] rounded-lg w-[352px] h-12">
           <div className="absolute top-[16px] text-center text-[16px] w-full tracking-[0.6px] leading-[16px] font-medium font-work-sans text-white text-left">
-            <Link href="/hunts/jordans">Start the hunt</Link>
+            <Link href="/hunts/polygon">Start the hunt</Link>
           </div>
         </button>
       </main>
