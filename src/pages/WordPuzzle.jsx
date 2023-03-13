@@ -9,7 +9,7 @@ const WordPuzzle = () => {
   const { hunt } = router.query
 
   const question =
-    hunt === "mickey" ? " Who is Mickey Mouse’s bestfriend?" : "What was polygon's old name?"
+    hunt === "mickey" ? " Who is Mickey Mouse’s bestfriend?" : "What was Polygon's old name?"
 
   const [counter, setCounter] = useState(100)
   const [done, setDone] = useState(false)
