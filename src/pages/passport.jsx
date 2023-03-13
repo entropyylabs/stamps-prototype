@@ -10,7 +10,7 @@ const passport = () => {
         </div>
       </div>
       <button className="cursor-pointer [border:none] p-0 bg-gray-100 absolute top-[571px] left-[102px] rounded-lg w-[186px] h-[46px]">
-        <div className="absolute top-[15px] left-[14px] w-[158px] h-4">
+        <div className="absolute top-[15px] left-[14px] w-full h-4">
           <div className="absolute top-[0px] left-[0px] text-[16px] tracking-[0.6px] leading-[16px] font-work-sans text-white text-center">
             Mint your passport
           </div>
